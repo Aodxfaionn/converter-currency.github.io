@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/converter-currency.github.io/static/css/main.bcc23c1c.css",
+    "main.js": "/converter-currency.github.io/static/js/main.ab63239c.js",
+    "index.html": "/converter-currency.github.io/index.html",
+    "main.bcc23c1c.css.map": "/converter-currency.github.io/static/css/main.bcc23c1c.css.map",
+    "main.ab63239c.js.map": "/converter-currency.github.io/static/js/main.ab63239c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc23c1c.css",
+    "static/js/main.ab63239c.js"
+  ]
+}
